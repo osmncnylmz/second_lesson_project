@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983299125009",
+    "project_id": "second-lesson-project-44374",
+    "storage_bucket": "second-lesson-project-44374.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983299125009:android:5aa4b5a06c6f2f8bf7a6b0",
+        "android_client_info": {
+          "package_name": "com.example.second_lesson_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEC8QVHmG9Kkto4NrTsSryyCg65Ys_XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
