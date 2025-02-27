@@ -1,16 +1,29 @@
-# second_lesson_project
+# İkinci Ders Projesi
 
-A new Flutter project.
+Bu, Flutter ile yapılmış bir proje.
 
-## Getting Started
+## Başlangıç
 
-This project is a starting point for a Flutter application.
+Bu proje, bir Flutter uygulaması için başlangıç noktasıdır. Firebase Authentication kullanılarak kullanıcı yönetimi sağlanmış ve temel UI ekranları (giriş, kayıt ve ana ekran) oluşturulmuştur.
 
-A few resources to get you started if this is your first Flutter project:
+### Kaynaklar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Eğer bu sizin ilk Flutter projenizse, başlamak için bazı kaynaklar:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter ile ilk uygulamanızı yazın](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook: Faydalı Flutter örnekleri](https://docs.flutter.dev/cookbook)
+- [Flutter Dokümantasyonu](https://docs.flutter.dev/) - Resmi Flutter dokümantasyonu
+
+### Firebase Entegrasyonu
+
+Bu projede kullanıcı girişi ve kaydı için Firebase Authentication kullanılmıştır. Firebase'i Flutter projenize entegre etmek için şu adımları izleyebilirsiniz:
+
+1. [Flutter için Firebase kurulumu](https://firebase.flutter.dev/docs/overview)
+2. [Android ve iOS uygulamanıza Firebase ekleyin](https://firebase.flutter.dev/docs/overview)
+
+### Ekranlar
+
+- **Giriş Ekranı**: Kullanıcıların e-posta ve şifre ile giriş yapmasını sağlar.
+- **Kayıt Ekranı**: Kullanıcıların e-posta ve şifre ile hesap oluşturmasını sağlar.
+- **Ana Ekran**: Hoşgeldiniz mesajı gösterir ve çıkış yapma butonu sunar.
+
